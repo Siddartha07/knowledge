@@ -1,0 +1,17 @@
+XML related stuff:
+
+- when to use attribute vs element
+
+http://www.ibm.com/developerworks/xml/library/x-eleatt/index.html
+
+
+- Designing xml schemas or dtd
+
+http://stackoverflow.com/questions/231553/what-are-best-practices-for-designing-xml-schemas?rq=1
+http://www.xfront.com/BestPracticesHomepage.html
+http://www.jenitennison.com/schema/index.html
+
+-what are xml name spaces (xmlns)
+
+http://stackoverflow.com/questions/1181888/what-does-xmlns-in-xml-mean?rq=1 
+Look at the second answers
